@@ -1,0 +1,15 @@
+{
+    "AS_NamedActions_dc33829432cc490bba0ae1ab4da24915": {
+        "id": "AS_NamedActions_dc33829432cc490bba0ae1ab4da24915",
+        "type": "ACTION_SEQUENCE",
+        "name": "Action0eac8b2ce62e648",
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d75796a8dd2643c79310fc1ee7a62518",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"test\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
