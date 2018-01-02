@@ -1,0 +1,14 @@
+{
+    "iphone": {
+        "formslist": {
+            "mvcFormObjects": [],
+            "nonmvcFormObjects": [
+                "frmTest"
+            ]
+        },
+        "templatesList": {
+            "mvcTemplateObjects": [],
+            "nonmvcTemplateObjects": []
+        }
+    }
+}

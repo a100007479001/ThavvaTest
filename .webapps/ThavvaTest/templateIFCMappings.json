@@ -1,0 +1,17 @@
+{
+    "controllerTemplateInfoMapping": {
+        "iphone": {}
+    },
+    "controllerformInfoMapping": {
+        "iphone": {}
+    },
+    "formControllerInfoMapping": {
+        "iphone": {}
+    },
+    "formsifcMapping": {},
+    "templateControllerInfoMapping": {
+        "iphone": {}
+    },
+    "templatesifcMapping": {},
+    "userwidgetsifcMapping": {}
+}

@@ -1,0 +1,2 @@
+  501  1969  1682   0  2:00PM ??         0:00.01 /bin/sh -c if [ ! -f /Users/raghavendrathavva/isSimRunning.txt ]; then 2> /dev/null; else rm /Users/raghavendrathavva/isSimRunning.txt; fi;ps -ef | grep 'CurrentDeviceUDID' > /Users/raghavendrathavva/isSimRunning.txt
+  501  1972  1969   0  2:00PM ??         0:00.00 grep CurrentDeviceUDID
